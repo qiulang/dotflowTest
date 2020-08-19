@@ -1,0 +1,19 @@
+{
+  "name": "wstest2",
+  "version": "1.0.0",
+  "description": "ws server to handle sip message",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dot.js",
+    "test": "NODE_ENV=development node dot.js"
+  },
+  "keywords": [
+    "ws",
+    "sip"
+  ],
+  "author": "qiulang",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-flow": "^3.2.0"
+  }
+}
